@@ -1,4 +1,4 @@
-# Greetings folks! 👋 My name is Muhammad Faeez Shabbir
+# Greetings folks! 👋 My name is Muhammad Zeeshan
 
 Currently, I am a graduating computer science, web developer MERN stack.
 
