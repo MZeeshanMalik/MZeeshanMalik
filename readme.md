@@ -13,7 +13,7 @@ Coding and designing for over 1 year, I'm a passionate tech enthusiast striving 
 src="https://img.shields.io/github/followers/MZeeshanMalik?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/MZeeshanMalik" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MZeeshanMalik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-<a href="https://wakatime.com/@ec68faeb-bba6-4f52-a2dc-9e7390bc1ab8"><img src="https://wakatime.com/badge/user/ec68faeb-bba6-4f52-a2dc-9e7390bc1ab8.svg?style=for-the-badge" alt="Total time coded since Mar 2 2023" /></a></p>
+<a href="https://wakatime.com/@bf14d0ab-fac4-4ed3-94d4-0f90e20c40de"><img src="https://wakatime.com/badge/user/bf14d0ab-fac4-4ed3-94d4-0f90e20c40de.svg" alt="Total time coded since Oct 26 2024" /></a></p>
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/MZeeshanMalik/count.svg" />
