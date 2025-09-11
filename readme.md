@@ -1,6 +1,6 @@
 # Hi, i am Muhammad Zeeshan
 
-Currently, I am a graduating computer science, web developer MERN stack.
+Currently, I am working as web developer, MERN stack.
 
 - 🌍 I'm based in Bahawalpur, PK
 - ✉️ You can contact me at [m121zeeshan@gmail.com](mailto:m121zeeshan@gmail.com)
