@@ -1,4 +1,4 @@
-<div align="center">
+<div display="flex" align="center" justify="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Muhammad+Zeeshan;MERN+Stack+Developer;Next.js+Enthusiast;Full+Stack+Web+Developer" alt="Typing SVG" />
   
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="180"/>
