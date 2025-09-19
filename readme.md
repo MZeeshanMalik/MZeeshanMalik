@@ -30,53 +30,29 @@
 
 ## 🔥 Featured Projects
 
-### 1. Karoly Windows Dashboard
+### 1. Business Dashboard
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="Dashboard Project" width="70%" />
 </div>
 
-**[View Repository](https://github.com/MZeeshanMalik/karolywindows_dashboard) | [Live Demo](https://karolywindows-dashboard.vercel.app)**
-
-**Technologies Used:** React.js, Next.js, Node.js, Express, MongoDB, Tailwind CSS, Chart.js, Redux
+**Technologies Used:** React.js, Next.js, Node.js, Express, postgresql, Tailwind CSS, Chart.js, React query
 
 **Project Overview:**
 An advanced admin dashboard built for Karoly Windows, providing business intelligence and operational efficiency. This full-featured dashboard offers real-time analytics with interactive data visualization, comprehensive inventory management, and detailed customer order tracking.
 
 **Key Features:**
 - Real-time business analytics and interactive charting
-- Inventory management with low-stock alerts
-- Customer order processing and status tracking
-- Sales performance metrics and reporting
+- Leads form crm,Facebook.google
+- Meta ads integration
+- Realtime data integration 
 - User authentication with role-based access control
 - Responsive design for seamless mobile and desktop experience
 
-### 2. Karoly Windows E-commerce Platform
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="E-commerce Project" width="70%" />
-</div>
 
-**[View Repository](https://github.com/MZeeshanMalik/karolywindows) | [Live Demo](https://karolywindows.vercel.app)**
-
-**Technologies Used:** React.js, Node.js, Express, MongoDB, Redux, Bootstrap, PayPal API, JWT Authentication
-
-**Project Overview:**
-A comprehensive e-commerce platform for Karoly Windows, enabling customers to browse products, place orders, and track deliveries. This platform combines a sleek front-end with a robust back-end architecture to deliver a seamless shopping experience.
-
-**Key Features:**
-- Product catalog with advanced filtering and search
-- User account management and order history
-- Secure checkout process with multiple payment options
-- Order tracking and delivery status updates
-- Responsive design and mobile optimization
-- Admin panel for product, order, and customer management
-- SEO-friendly product pages for better visibility
-
-### 3. MIS Server (Management Information System)
+### 2. MIS Server (Management Information System)
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Server Project" width="70%" />
 </div>
-
-**[View Repository](https://github.com/momentuminc/mis-server)**
 
 **Technologies Used:** Node.js, Express.js, MongoDB, RESTful API, JWT, Mongoose, Jest
 
@@ -84,7 +60,6 @@ A comprehensive e-commerce platform for Karoly Windows, enabling customers to br
 A robust backend server solution for a Management Information System that provides comprehensive API endpoints, secure authentication, and database integration. This server powers various business applications with reliable data processing and storage capabilities.
 
 **Key Features:**
-- RESTful API architecture with comprehensive documentation
 - Advanced authentication and authorization system
 - Database modeling and efficient querying
 - Data validation and error handling
@@ -92,24 +67,22 @@ A robust backend server solution for a Management Information System that provid
 - Performance monitoring and optimization
 - Extensive unit and integration testing
 
-### 4. Personal Portfolio & GitHub Profile
+### 3. Anonymus Feedback
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Portfolio Project" width="70%" />
 </div>
 
-**[View Repository](https://github.com/MZeeshanMalik/MZeeshanMalik)**
+**[View Repository](https://github.com/MZeeshanMalik/anonymus-feedbacks)**
 
-**Technologies Used:** Markdown, HTML, CSS, GitHub Actions
+**Technologies Used:** React, Next.js node.js, mongodb
 
 **Project Overview:**
-My professional GitHub profile showcasing my skills, projects, and experience as a Full Stack Web Developer. This profile serves as a central hub for my development work and highlights my capabilities to potential collaborators and employers.
+A secure platform allowing users to submit anonymous feedback to individuals or organizations. Features real-time notifications, comprehensive analytics dashboard, and customizable feedback forms with strong privacy protection.
 
 **Key Features:**
-- Dynamic project showcases with detailed descriptions
-- Comprehensive skill visualization
-- Integrated GitHub statistics and activity tracking
-- Professional branding and visual design
-- Regular updates highlighting new skills and projects
+- Realtime feeback submitting using a link
+- Any user can submit feedback annonymusly.
+- Advanced authentication and authorization system
 
 ## 💻 Tech Stack
 
