@@ -216,7 +216,5 @@ MongoDB      ██░░░░░░░░░░░░░░░░   10.40%
 <div align="center">
   <h3>🚀 Show some ❤️ by starring some of the repositories!</h3>
   
-  <a href="https://www.buymeacoffee.com/MZeeshanMalik">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
+ 
 </div>
