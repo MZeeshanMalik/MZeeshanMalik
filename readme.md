@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌍 Based in **Bahawalpur, Pakistan**
+- 🌍 Based in **Chishtian bahawalnagar, Pakistan**
 - 💼 Full Stack Web Developer specializing in **MERN Stack & Next.js**
 - 🚀 Over **1 year** of coding and designing experience
 - ✉️ Reach me at **[m121zeeshan@gmail.com](mailto:m121zeeshan@gmail.com)**
